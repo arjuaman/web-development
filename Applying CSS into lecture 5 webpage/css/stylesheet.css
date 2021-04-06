@@ -1,0 +1,46 @@
+    #supra {
+      border-color: black;
+      width: 500px;
+    }
+
+    #supra:hover {
+      width: 720px;
+      border-radius: 15px;
+      border-color: #63e764;
+    }
+
+    #m2 {
+      border-color: blue;
+      width: 500px;
+    }
+
+    #m2:hover {
+      width: 720px;
+      border-radius: 15px;
+      border-color: #63e764;
+    }
+
+    .headings {
+      font-style: italic;
+    }
+
+    .prices {
+      font-style: italic;
+    }
+
+    a:visited {
+      color: orange;
+    }
+
+    h1, h2 {
+      font-family: helvetica;
+    }
+
+    #submit-btn:hover {
+      background-color: orange;
+      color: white;
+    }
+
+    input:focus {
+      background-color: #64e764;
+    }
